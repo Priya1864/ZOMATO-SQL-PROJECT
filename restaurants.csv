@@ -1,0 +1,31 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Tandoori Express,Thane,10am-15pm
+2,Spice Villa,Ahmedabad,11am-16pm
+3,Curry House,Kolkata,9am-15pm
+4,Masala Magic,Nagpur,11am-15pm
+5,Bombay Bistro,Varanasi,11am-15pm
+6,The Saffron Lounge,Thane,10am-16pm
+7,Royal Rasoi,Rajkot,10am-16pm
+8,Taste of India,Rajkot,9am-16pm
+9,Nawab's Feast,Ahmedabad,11am-15pm
+10,Delhi Delight,Pune,9am-16pm
+11,Southern Spice,Meerut,9am-16pm
+12,The Chaat Corner,Lucknow,9am-16pm
+13,Biryani House,Kolkata,10am-16pm
+14,The Dosa Place,Pune,9am-16pm
+15,Cafe Punjab,Ghaziabad,9am-16pm
+16,Kebab Junction,Rajkot,10am-16pm
+17,Mirchi Masala,Pune,9am-16pm
+18,Zaika,Delhi,10am-16pm
+19,The Thali Spot,Ahmedabad,10am-15pm
+20,Mumbai Tadka,Bhopal,10am-15pm
+21,Kerala Kitchen,Ghaziabad,9am-15pm
+22,Udupi Garden,Vasai-Virar,10am-16pm
+23,Rajasthani Rasoi,Bengaluru,11am-16pm
+24,Goan Flavors,Lucknow,9am-15pm
+25,Lucknowi Zaika,Bengaluru,9am-15pm
+26,Hyderabadi Biryani,Kolkata,10am-16pm
+27,Madras Meals,Jaipur,9am-15pm
+28,Gujarat Delight,Thane,9am-16pm
+29,Punjabi Tandoor,Hyderabad,9am-15pm
+30,Chennai Spice,Thane,10am-15pm
